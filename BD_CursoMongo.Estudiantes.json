@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "69ebd372ed8f3f64eaadefb6"
+  },
+  "nombre": "Steven",
+  "edad": 20,
+  "carrera": "Ciencia de datos"
+},
+{
+  "_id": {
+    "$oid": "69ebd4eaed8f3f64eaadefb7"
+  },
+  "nombre": "Naomi Mosquera",
+  "edad": 19,
+  "carrera": "Ciencia de datos "
+},
+{
+  "_id": {
+    "$oid": "69ebd546ed8f3f64eaadefb8"
+  },
+  "nombre": "Angie Tobar ",
+  "edad": 18,
+  "carrera": "Ciencia de Datos"
+},
+{
+  "_id": {
+    "$oid": "69ebd619ed8f3f64eaadefba"
+  },
+  "nombre": "Jorge Zainea",
+  "edad": 25,
+  "carrera": "Ciencia de datos "
+},
+{
+  "_id": {
+    "$oid": "69ebd637ed8f3f64eaadefbb"
+  },
+  "nombre": "Laura Saenz",
+  "edad": 24,
+  "carrera": "Ciencia de datos "
+},
+{
+  "_id": {
+    "$oid": "69ebd662ed8f3f64eaadefbc"
+  },
+  "nombre": "Santiago Sandoval ",
+  "edad": 19,
+  "carrera": "Ciencia de datos "
+},
+{
+  "_id": {
+    "$oid": "69ebd671ed8f3f64eaadefbd"
+  },
+  "nombre": "Joshua Trujillo ",
+  "edad": 21,
+  "carrera": "Ciencia de datos "
+},
+{
+  "_id": {
+    "$oid": "69ebd69ced8f3f64eaadefbe"
+  },
+  "nombre": "Eilyn Herrera ",
+  "edad": 19,
+  "carrera": "Ciencia de datos "
+},
+{
+  "_id": {
+    "$oid": "69ebd6eced8f3f64eaadefbf"
+  },
+  "nombre": "Daniela Gonzales",
+  "edad": 20,
+  "carrera": "Ciencia de datos "
+},
+{
+  "_id": {
+    "$oid": "69ebd6f8ed8f3f64eaadefc0"
+  },
+  "nombre": "Maria Guzman",
+  "edad": 19,
+  "carrera": "Ciencia de datos "
+},
+{
+  "_id": {
+    "$oid": "69ebd706ed8f3f64eaadefc1"
+  },
+  "nombre": "Valentina Bello",
+  "edad": 19,
+  "carrera": "Ciencia de datos "
+},
+{
+  "_id": {
+    "$oid": "69ebd718ed8f3f64eaadefc2"
+  },
+  "nombre": "Nicolas Cardenas",
+  "edad": 19,
+  "carrera": "Ciencia de datos "
+},
+{
+  "_id": {
+    "$oid": "69ebd73fed8f3f64eaadefc3"
+  },
+  "nombre": "Camilo Hernandez ",
+  "edad": 19,
+  "carrera": "Ciencia de datos "
+},
+{
+  "_id": {
+    "$oid": "69ebd755ed8f3f64eaadefc4"
+  },
+  "nombre": "Miguel Camargo ",
+  "edad": 24,
+  "carrera": "Ciencia de datos "
+},
+{
+  "_id": {
+    "$oid": "69ebd767ed8f3f64eaadefc5"
+  },
+  "nombre": "Kevin Luengas",
+  "edad": 20,
+  "carrera": "Ciencia de datos "
+},
+{
+  "_id": {
+    "$oid": "69ebd788ed8f3f64eaadefc6"
+  },
+  "nombre": "Valeria Villamil ",
+  "edad": 25,
+  "carrera": "Ciencia de datos "
+},
+{
+  "_id": {
+    "$oid": "69ebd7d7ed8f3f64eaadefc7"
+  },
+  "nombre": "Miguel Moreno",
+  "edad": 19,
+  "carrera": "Ciencia de datos "
+},
+{
+  "_id": {
+    "$oid": "69ebd7e6ed8f3f64eaadefc8"
+  },
+  "nombre": "Ailyn Gomez",
+  "edad": 19,
+  "carrera": "Ciencia de datos "
+}]
